@@ -1,3 +1,7 @@
+//Group Members
+//Gabriel Owusu
+//Kelvin Offei Anim
+
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
