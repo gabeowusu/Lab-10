@@ -1,3 +1,8 @@
+/*Group Members
+Gabriel Owusu
+Kelvin Offei Anim
+**/
+
 #include <vector>
 #include <fstream>
 #include <iostream>
